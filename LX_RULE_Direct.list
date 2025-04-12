@@ -8,6 +8,6 @@ DOMAIN-SUFFIX,happyliu.top
 
 #广告
 
-DOMAIN-SUFFIX,static.cloudflareinsights.com
-DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,pagead2.googlesyndication.com
+;DOMAIN-SUFFIX,static.cloudflareinsights.com
+;DOMAIN-SUFFIX,googletagmanager.com
+;DOMAIN-SUFFIX,pagead2.googlesyndication.com
