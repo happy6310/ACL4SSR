@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,checkip.dyndns.com
 ;DOMAIN-SUFFIX,static.cloudflareinsights.com
 ;DOMAIN-SUFFIX,googletagmanager.com
 ;DOMAIN-SUFFIX,pagead2.googlesyndication.com
+
+DOMAIN-SUFFIX,ipinfo.io
