@@ -1,10 +1,8 @@
 #直连
-DOMAIN-KEYWORD,cplotus     
 DOMAIN-KEYWORD,cp-net.cn
 DOMAIN-KEYWORD,cplotus
-DOMAIN-SUFFIX,cplotus.net
 DOMAIN-KEYWORD,happyliu
-DOMAIN-SUFFIX,happyliu.top
+
 DOMAIN-SUFFIX,checkip.dyndns.com
 
 ;DOMAIN-SUFFIX,static.cloudflareinsights.com
