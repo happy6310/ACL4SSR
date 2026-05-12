@@ -1,19 +1,30 @@
 #直连
-DOMAIN-KEYWORD,cp-net.cn
-DOMAIN-KEYWORD,cplotus
+
 DOMAIN-KEYWORD,happyliu
 
-DOMAIN-KEYWORD,akamai.com
-DOMAIN-KEYWORD,ip.3322.net
-DOMAIN-KEYWORD,ifconfig.me
+; ====== cp group ======
+; mail
+DOMAIN-SUFFIX,icoremail.net
+; cplotus 
+DOMAIN-SUFFIX,cp-net
+DOMAIN-KEYWORD,cplotus
 
 
+
+DOMAIN-SUFFIX,akamai.com
+DOMAIN-SUFFIX,ip.3322.net
+DOMAIN-SUFFIX,ifconfig.me
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,checkip.dyndns.com
+
+
+DOMAIN-SUFFIX,microsoft.com
+
 
 ;DOMAIN-SUFFIX,static.cloudflareinsights.com
 ;DOMAIN-SUFFIX,googletagmanager.com
 ;DOMAIN-SUFFIX,pagead2.googlesyndication.com
 
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,ipify.org
+
 
