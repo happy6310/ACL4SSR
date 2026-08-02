@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,akamai.com
 DOMAIN-SUFFIX,ip.3322.net
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,ipify.org
+;DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,checkip.dyndns.com
 
 
