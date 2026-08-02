@@ -13,8 +13,8 @@ DOMAIN-KEYWORD,cplotus
 
 DOMAIN-SUFFIX,akamai.com
 DOMAIN-SUFFIX,ip.3322.net
-DOMAIN-SUFFIX,ifconfig.me
-DOMAIN-SUFFIX,ipinfo.io
+;DOMAIN-SUFFIX,ifconfig.me
+;DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,checkip.dyndns.com
 
 
